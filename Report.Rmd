@@ -1,6 +1,6 @@
 ---
 title: "Report"
-author: "Sivagami Nedumaran"
+author: "Sivagami Nedumarann"
 date: "2024-11-19"
 output: html_document
 ---
